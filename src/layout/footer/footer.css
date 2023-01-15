@@ -1,0 +1,13 @@
+.footer-container {
+  background-color: blueviolet;
+  align-self: end;
+  display: flex;
+  flex-direction: column;
+  height: 20%;
+  width: 100%;
+}
+
+.footer {
+  padding-top: 2rem;
+  font-size: x-large;
+}

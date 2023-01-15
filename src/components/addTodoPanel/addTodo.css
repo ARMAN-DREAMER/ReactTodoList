@@ -1,0 +1,32 @@
+.addTodo-container {
+  height: 30rem;
+  width: 40rem;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 1rem;
+  box-shadow: 2px 2px 2px #f7f7f7;
+  background-color: rgb(184, 192, 200);
+}
+.task-input {
+  width: 70%;
+  height: 1.5rem;
+  align-self: center;
+  border: none;
+  box-shadow: 3px 3px 3px #f1f1f1;
+  margin-bottom: 1rem;
+}
+label {
+  margin-bottom: 1rem;
+  font-size: large;
+  font-weight: 550;
+  align-self: flex-start;
+  padding-left: 4rem;
+}
+input[type="submit"] {
+  background-color: black;
+  color: white;
+  font-size: large;
+  border-radius: 10px;
+  width: 30%;
+  align-self: center;
+}
