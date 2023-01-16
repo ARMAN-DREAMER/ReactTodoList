@@ -2,26 +2,18 @@
   "todos": [
     {
       "id": 1,
-      "task": "Exercise",
-      "time": "45minutes",
-      "discription": "Run for 45 mintues to opemn your mind "
-    },
-    {
-      "id": 2,
-      "task": "Eat lunch",
-      "time": "20 minutes",
-      "discription": "eat salad for lunch becuse you are in diet "
-    },
-    {
-      "id": 3,
-      "task": "work",
-      "time": "8hours",
-      "discription": "work for 8 hours to earn money "
+      "task": "dinner",
+      "discription": "dinner with family and frinds"
     },
     {
       "task": "game",
-      "discription": "play ps4",
-      "id": 4
+      "discription": "play wwf",
+      "id": 2
+    },
+    {
+      "task": "work",
+      "discription": "keeping on  my schedules ",
+      "id": 3
     }
   ]
 }
